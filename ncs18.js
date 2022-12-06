@@ -1,5 +1,3 @@
-# multiplication-table
-It's gugudan sauce
 let students = [];
 
 students.push({"name":"박규원","math": 60,"Korean": 40, "English": 40,});
